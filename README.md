@@ -1,1 +1,2 @@
-# i14worlds2022-presentations
+
+*Just some static reveal.js presentations.*
